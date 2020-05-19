@@ -21,14 +21,12 @@ header {
   align-items: center;
   /* padding-top: 10px; */
 }
-
 nav {
   color: black;
   text-align: right;
   /* height: 30px; */
   letter-spacing: 2px;
 }
-
 nav ul li {
   display: inline-block;
 }
@@ -39,7 +37,6 @@ nav ul li a {
   border-radius: 10px;
   border-width: 10px;
 }
-
 body {
   font-size: 14px;
   line-height: 34px;
